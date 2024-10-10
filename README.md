@@ -1,3 +1,2 @@
-# CODSOFT-TASK-2
-CODSOFT-TASK 2
+
 https://harsh8911.github.io/CODSOFT-TASK-2/
